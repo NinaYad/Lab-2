@@ -182,7 +182,7 @@ if s == 3:
             print("rg = 2")
         else:
             print("rg = 3")
-# Задание 2
+# Задание 3
 s = ""
 print("Введите матрицу")
 m1 = [int(input()), int(input()), int(input()), int(input()),int(input()),\
